@@ -1,2 +1,0 @@
-# Anime
-Listas de Anime
